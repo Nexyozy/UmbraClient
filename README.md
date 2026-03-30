@@ -52,7 +52,16 @@ If the cheat doesn't work:
 
 ## Features
 
-- [List your cheat features here]
+- Chunk Finder
+- Bypass keybind verification
+- Block Esp
+- Auto Order
+- Auto ah sniper
+- Hole esp
+- Gilded esp
+- Head esp
+- Spawner esp
+- Storage esp
 
 ---
 
