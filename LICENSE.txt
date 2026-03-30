@@ -1,0 +1,49 @@
+================================================================================
+                          LICENSE AGREEMENT
+================================================================================
+
+This software (hereinafter referred to as "the Cheat") is provided "as is" 
+and is intended for private, personal use only.
+
+By using this Cheat, you agree to the following terms:
+
+1. Ownership & Rights
+   - This Cheat is the intellectual property of its developer.
+   - You are granted a non-exclusive, non-transferable, revocable license 
+     to use this Cheat for personal purposes only.
+   - You may not redistribute, share, sell, or upload this Cheat (or any 
+     part of it) to any third party.
+
+2. Restrictions
+   - You may not modify, decompile, reverse engineer, or attempt to extract 
+     the source code of this Cheat.
+   - Use on public servers or in competitive environments may result in 
+     account bans. Use at your own risk.
+   - The developer is not responsible for any Minecraft account suspensions, 
+     hardware bans, or other consequences resulting from the use of this Cheat.
+
+3. Requirements & Activation
+   - An active internet connection is mandatory for authentication.
+   - The Cheat must be launched with administrator privileges.
+   - This Cheat is designed exclusively for the official Minecraft launcher 
+     and the default .minecraft directory.
+
+4. Disclaimer of Warranty
+   - This Cheat is provided without any warranty, express or implied.
+   - The developer assumes no liability for damages, data loss, or any other 
+     issues arising from the use or inability to use this software.
+
+5. Termination
+   - The license may be terminated at any time by the developer without notice.
+   - Any violation of these terms will result in immediate revocation of access.
+
+================================================================================
+                          ACCEPTANCE
+
+By launching and using this Cheat, you acknowledge that you have read, 
+understood, and agreed to be bound by this License Agreement.
+
+If you do not agree with these terms, do not use the Cheat.
+
+================================================================================
+© 2026 - All Rights Reserved.
